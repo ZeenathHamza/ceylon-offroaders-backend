@@ -1,6 +1,6 @@
 # 🚗 Ceylon Offroaders - Backend
 
-Express.js + Firebase Admin API for offroading event management system.
+ offroading event management system.
 
 ## Tech Stack
 - Express.js + Firebase Admin SDK
